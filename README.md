@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hey, name's ender(endxrcraft)
+ I'm really really new on github (*freshly out the womb*) and trying to learn HTML for my website and probably homelabbing later on
+ Special thanks to pingusurmars and Mona the cat for helping me even crete repos
 <!--
 **endxrcraft/endxrcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
