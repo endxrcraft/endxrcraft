@@ -4,7 +4,9 @@
 Special thanks to pingusurmars and Mona the cat for helping me even **create** repos
 ## What I like 🤔
 Metal gear solid and splatoon
+
 Squatting my friend's Jellyfin
+
 Music in .flac 😳
 <!--
 **endxrcraft/endxrcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
