@@ -1,4 +1,4 @@
-## Hey, name's ender
+## Hey, name's ender(he/him)
  I'm really really new on github (*freshly out the womb*),I'm also trying to learn HTML for my website and probably homelabbing later on
  
 Special thanks to pingusurmars and Mona the cat for helping me even **create** repos
