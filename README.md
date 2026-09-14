@@ -1,4 +1,4 @@
-## Hey, name's ender(endxrcraft) 🔍
+## Hey, name's ender
  I'm really really new on github (*freshly out the womb*),I'm also trying to learn HTML for my website and probably homelabbing later on
  
 Special thanks to pingusurmars and Mona the cat for helping me even **create** repos
@@ -8,6 +8,10 @@ Metal gear solid and splatoon
 Squatting my friend's Jellyfin
 
 Music in .flac 😳
+## Getting close and personal <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/16681906-7dc4-4246-90a7-8accf3b47179" />
+If you want to contact me to help on future projects or anything here's my discord:
+
+- ***@.endxr***
 <!--
 **endxrcraft/endxrcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
