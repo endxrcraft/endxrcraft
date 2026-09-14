@@ -1,5 +1,5 @@
 ## Hey, name's ender(he/him) 👋
-I'm from france my pronouns are he/him and yeah, I'm currently triple booting Windows 10/11 IoT and Void Linux on my beloved 1TB Kingston NV3(I dont hate System-D that much)
+I'm from france my pronouns are he/him and yeah, I'm currently triple booting Windows 10/11 IoT and Void Linux on my beloved 1TB Kingston NV3(I dont hate System-D that much) 
 
  I'm really really new on github (*freshly out the womb*),I'm also trying to learn HTML for my website, it's the most basic shit you've ever seen but we all start somewhere.. I'll also probably be homelabbing later on
  
