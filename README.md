@@ -1,13 +1,13 @@
 ## Hey, name's ender(he/him) 👋
-I'm from france my pronouns are he/him and yeah, I'm currently triple booting Windows 10/11 IoT and Void Linux on my beloved 1TB Kingston NV3(I dont hate System-D that much) 
+I'm from france my pronouns are he/him , I'm currently triple booting Windows 10/11 IoT and Void Linux on my 1TB Kingston NV3(I dont hate System-D that much) 
 
  I'm really really new on github (*freshly out the womb*),I'm also trying to learn HTML for my website, it's the most basic shit you've ever seen but we all start somewhere.. I'll also probably be homelabbing later on
  
 Special thanks to [pingusurmars](https://github.com/pingusurmars) and octocat for helping me even **create** repos
 ## What I like 🤔
-Metal gear solid and splatoon
+Metal gear solid and video games in general 
 
-Squatting my friend's Jellyfin(update there's now navidrome)
+Squatting my friend's home server
 
 Music in .flac 😳
 ## Getting close and personal <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/16681906-7dc4-4246-90a7-8accf3b47179" />
